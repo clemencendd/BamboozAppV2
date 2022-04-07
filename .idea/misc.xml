@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/clemence.nadaud/AndroidStudioProjects/BamboozAppV2/app/src/main/res/drawable/bambooz_button_round.xml" value="0.1" />
+        <entry key="..\:/Users/clemence.nadaud/AndroidStudioProjects/BamboozAppV2/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.1" />
+        <entry key="..\:/Users/clemence.nadaud/AndroidStudioProjects/BamboozAppV2/app/src/main/res/drawable/ic_baseline_add_circle_outline_24.xml" value="0.1" />
+        <entry key="..\:/Users/clemence.nadaud/AndroidStudioProjects/BamboozAppV2/app/src/main/res/drawable/ic_baseline_format_list_bulleted_24.xml" value="0.1" />
+        <entry key="..\:/Users/clemence.nadaud/AndroidStudioProjects/BamboozAppV2/app/src/main/res/drawable/ic_peoples.xml" value="0.1" />
+        <entry key="..\:/Users/clemence.nadaud/AndroidStudioProjects/BamboozAppV2/app/src/main/res/layout/activity_fil_actu.xml" value="0.2578125" />
+        <entry key="..\:/Users/clemence.nadaud/AndroidStudioProjects/BamboozAppV2/app/src/main/res/layout/activity_login.xml" value="0.3482789855072464" />
+        <entry key="..\:/Users/clemence.nadaud/AndroidStudioProjects/BamboozAppV2/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/clemence.nadaud/AndroidStudioProjects/BamboozAppV2/app/src/main/res/layout/activity_maps.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/clemence.nadaud/AndroidStudioProjects/BamboozAppV2/app/src/main/res/layout/activity_profile.xml" value="0.5" />
+        <entry key="..\:/Users/clemence.nadaud/AndroidStudioProjects/BamboozAppV2/app/src/main/res/layout/activity_publish.xml" value="0.33" />
+        <entry key="..\:/Users/clemence.nadaud/AndroidStudioProjects/BamboozAppV2/app/src/main/res/layout/activity_register.xml" value="0.3423913043478261" />
+        <entry key="..\:/Users/clemence.nadaud/AndroidStudioProjects/BamboozAppV2/app/src/main/res/layout/activity_user_research.xml" value="0.21739130434782608" />
+        <entry key="..\:/Users/clemence.nadaud/AndroidStudioProjects/BamboozAppV2/app/src/main/res/layout/content_user_research.xml" value="0.21739130434782608" />
+        <entry key="..\:/Users/clemence.nadaud/AndroidStudioProjects/BamboozAppV2/app/src/main/res/menu/main_menu_bottom.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

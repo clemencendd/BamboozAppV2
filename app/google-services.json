@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "503386405506",
+    "firebase_url": "https://bamboozapp-de010-default-rtdb.firebaseio.com",
+    "project_id": "bamboozapp-de010",
+    "storage_bucket": "bamboozapp-de010.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503386405506:android:e156f3ae4ef7c2974e929b",
+        "android_client_info": {
+          "package_name": "fr.isen.nadaud.bamboozap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503386405506-vsc4eqdf331nsj0m755n9atmjbdcgs4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo1I_XPzkPhEmY9SjeRGl_AKN5G1aV_A8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503386405506-vsc4eqdf331nsj0m755n9atmjbdcgs4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
