@@ -3,12 +3,8 @@ package fr.isen.nadaud.bamboozap
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.AdapterView
 import android.widget.ArrayAdapter
-import android.widget.ListView
 import android.widget.SearchView
-import com.google.firebase.database.DatabaseReference
-import com.google.firebase.database.FirebaseDatabase
 import fr.isen.nadaud.bamboozap.databinding.ActivityUserResearchBinding
 
 class UserResearchActivity : AppCompatActivity() {

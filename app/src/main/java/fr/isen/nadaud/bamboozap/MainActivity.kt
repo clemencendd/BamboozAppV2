@@ -3,7 +3,6 @@ package fr.isen.nadaud.bamboozap
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.view.Window
 import fr.isen.nadaud.bamboozap.databinding.ActivityMainBinding
 
 
