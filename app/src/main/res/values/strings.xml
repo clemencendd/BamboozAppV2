@@ -20,4 +20,24 @@
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="title_activity_user_research">UserResearchActivity</string>
+    <string name="les_d_fis_du_moment">Les défis du moment</string>
+    <string name="enzo">Enzo</string>
+    <string name="_83000_toulon">83000 Toulon</string>
+    <string name="se_battre_avec_des_militaires_du_charles_de_gaulle">Se battre avec des militaires du Charles De Gaulle</string>
+    <string name="charles">Charles</string>
+    <string name="_57340_suisse">57340 Suisse</string>
+    <string name="passer_la_fronti_re_suisse_nu">Passer la Frontière Suisse nu</string>
+    <string name="jules">Jules</string>
+    <string name="_33000_bordeaux">33000 Bordeaux</string>
+    <string name="commander_un_pain_au_chocolat_dans_une_boulangerie">Commander un pain au chocolat dans une boulangerie</string>
+    <string name="cl_mence">Clémence</string>
+    <string name="_75008_paris">75008 Paris</string>
+    <string name="faire_10_fois_le_tour_de_l_arc_de_triomphe_en_scooter">Faire 10 fois le tour de l’arc de triomphe en scooter</string>
+    <string name="louise">Louise</string>
+    <string name="_26390_hauterives">26390 Hauterives</string>
+    <string name="photo_devant_palais_du_facteur_cheval">Photo devant Palais du Facteur Cheval</string>
+    <string name="photo1">photo</string>
+    <string name="logo">logo</string>
+    <string name="todo">TODO</string>
+
 </resources>
