@@ -2,14 +2,9 @@ package fr.isen.nadaud.bamboozap
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Log
 import android.widget.Toast
-import com.google.android.gms.maps.CameraUpdateFactory
-import com.google.android.gms.maps.model.LatLng
-import com.google.android.gms.maps.model.MarkerOptions
 import com.google.firebase.database.ktx.database
 import com.google.firebase.ktx.Firebase
-import fr.isen.nadaud.bamboozap.databinding.ActivityLoginBinding
 import fr.isen.nadaud.bamboozap.databinding.ActivityProfileBinding
 
 class ProfileActivity : AppCompatActivity() {
